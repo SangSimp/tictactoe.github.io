@@ -153,6 +153,7 @@ namespace TicTacToe
         private void điLạiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Undo();
+            socket.Send(new SocketData((int)SocketCommand.UNDO, "", new Point()));
         }
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
