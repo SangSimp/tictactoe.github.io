@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\resources\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:resources\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|c:\\users\\lenovo\\source\\repos\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C33B1206-BD0B-46AE-85CF-EEB645E5D74D}|TicTacToe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 137,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:36:42.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocketData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\SocketData.cs",
+              "RelativeDocumentMoniker": "SocketData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\SocketData.cs",
+              "RelativeToolTip": "SocketData.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:08:29.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocketManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\SocketManager.cs",
+              "RelativeDocumentMoniker": "SocketManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\SocketManager.cs",
+              "RelativeToolTip": "SocketManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:35:03.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "ChessBoardManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\ChessBoardManager.cs",
+              "RelativeToolTip": "ChessBoardManager.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAMcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:25:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\PlayInfo.cs",
+              "RelativeDocumentMoniker": "PlayInfo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\PlayInfo.cs",
+              "RelativeToolTip": "PlayInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:46:02.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:21:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "o.png",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Resources\\o.png",
+              "RelativeDocumentMoniker": "Resources\\o.png",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Resources\\o.png",
+              "RelativeToolTip": "Resources\\o.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-27T16:33:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:03:15.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:28:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cons.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Cons.cs",
+              "RelativeDocumentMoniker": "Cons.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\TicTacToe\\Cons.cs",
+              "RelativeToolTip": "Cons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:04:03.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
